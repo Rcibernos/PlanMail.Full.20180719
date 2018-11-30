@@ -1,0 +1,2 @@
+20180718
+Soluciona incidencia de reintento de envío de mails
